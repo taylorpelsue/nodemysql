@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(black, blueviolet, violet);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+h1 {
+    color: white;
+    font-family: Cambria;
+    margin: 3%;
+}
+
+#info {
+    font-family: Cambria;
+    color: white;
+    margin: 3%; 
+}
+
+#cust {
+    margin-left: 3%; 
+    margin-bottom: 3%;
+}
+
+#app {
+    margin-left: 3%; 
+    margin-bottom: 3%;
+}
