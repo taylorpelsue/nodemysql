@@ -19,10 +19,14 @@ h1 {
 
 #cust {
 
+    max-width: 100%;
+    width: auto;
     margin-bottom: 3%;
 }
 
 #app {
   
+    max-width: 100%;
+    width: auto;
     margin-bottom: 3%;
 }
