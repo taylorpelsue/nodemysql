@@ -7,7 +7,8 @@ body {
 h1 {
     color: white;
     font-family: Cambria;
-    margin: 3%;
+    margin-top: 5%;
+    margin-left: 3%;
 }
 
 #info {
